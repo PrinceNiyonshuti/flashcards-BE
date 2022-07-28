@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "commonJS",
+        "lib": ["esnext"],
+        "strict": true,
+        "rootDir": ".",
+        "outDir": "dist",
+        "sourceMap": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strictPropertyInitialization": true,
+        "strictNullChecks": true,
+        "noEmitOnError": true,    
+        
+    }
+}
